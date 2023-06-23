@@ -64,7 +64,7 @@
 - [x] [2461.Maximum-Sum-of-Distinct-Subarrays-With-Length-K](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/2461.Maximum-Sum-of-Distinct-Subarrays-With-Length-K) (M)    
 [2537.Count-the-Number-of-Good-Subarrays](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/2537.Count-the-Number-of-Good-Subarrays) (M+)     
 * ``Two pointers for two sequences``    
-- [ ] [986.Interval-List-Intersections](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/986.Interval-List-Intersections) (M)  
+- [x] [986.Interval-List-Intersections](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/986.Interval-List-Intersections) (M)  
 [1229.Meeting-Scheduler](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1229.Meeting-Scheduler) (M+)  
 [1537.Get-the-Maximum-Score](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1537.Get-the-Maximum-Score) (H-)  
 [1577.Number-of-Ways-Where-Square-of-Number-Is-Equal-to-Product-of-Two-Numbers](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1577.Number-of-Ways-Where-Square-of-Number-Is-Equal-to-Product-of-Two-Numbers) (H-)  
