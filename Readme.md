@@ -97,7 +97,7 @@
 [2563.Count-the-Number-of-Fair-Pairs](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/2563.Count-the-Number-of-Fair-Pairs) (M+)      
 * ``Binary Processing``  
 [1483.Kth-Ancestor-of-a-Tree-Node](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/1483.Kth-Ancestor-of-a-Tree-Node) (H)  
-[1922.Count-Good-Numbers](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/1922.Count-Good-Numbers) (M)  
+- [ ] [1922.Count-Good-Numbers](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/1922.Count-Good-Numbers) (M)  
 * ``Binary Search by Value``  
 [410.Split-Array-Largest-Sum](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/410.Split-Array-Largest-Sum) (H-)  
 [774.Minimize-Max-Distance-to-Gas-Station](https://github.com/wisdompeak/LeetCode/tree/master/Priority_Queue/774.Minimize-Max-Distance-to-Gas-Station) (H)    
