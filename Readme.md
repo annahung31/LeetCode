@@ -97,11 +97,11 @@
 [2563.Count-the-Number-of-Fair-Pairs](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/2563.Count-the-Number-of-Fair-Pairs) (M+)      
 * ``Binary Processing``  
 [1483.Kth-Ancestor-of-a-Tree-Node](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/1483.Kth-Ancestor-of-a-Tree-Node) (H)  
-- [ ] [1922.Count-Good-Numbers](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/1922.Count-Good-Numbers) (M)  
+- [x] [1922.Count-Good-Numbers](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/1922.Count-Good-Numbers) (M)  
 * ``Binary Search by Value``  
 [410.Split-Array-Largest-Sum](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/410.Split-Array-Largest-Sum) (H-)  
 [774.Minimize-Max-Distance-to-Gas-Station](https://github.com/wisdompeak/LeetCode/tree/master/Priority_Queue/774.Minimize-Max-Distance-to-Gas-Station) (H)    
-[1011.Capacity-To-Ship-Packages-Within-D-Days](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/1011.Capacity-To-Ship-Packages-Within-D-Days) (M)  
+- [ ] [1011.Capacity-To-Ship-Packages-Within-D-Days](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/1011.Capacity-To-Ship-Packages-Within-D-Days) (M)  
 [1060.Missing-Element-in-Sorted-Array](https://github.com/wisdompeak/LeetCode/blob/master/Binary_Search/1060.Missing-Element-in-Sorted-Array) (H)  
 [1102.Path-With-Maximum-Minimum-Value](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/1102.Path-With-Maximum-Minimum-Value) (H-)   
 [1631.Path-With-Minimum-Effort](https://github.com/wisdompeak/LeetCode/tree/master/Union_Find/1631.Path-With-Minimum-Effort) (H-)  
