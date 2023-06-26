@@ -101,7 +101,7 @@
 * ``Binary Search by Value``  
 [410.Split-Array-Largest-Sum](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/410.Split-Array-Largest-Sum) (H-)  
 [774.Minimize-Max-Distance-to-Gas-Station](https://github.com/wisdompeak/LeetCode/tree/master/Priority_Queue/774.Minimize-Max-Distance-to-Gas-Station) (H)    
-- [ ] [1011.Capacity-To-Ship-Packages-Within-D-Days](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/1011.Capacity-To-Ship-Packages-Within-D-Days) (M)  
+- [x] [1011.Capacity-To-Ship-Packages-Within-D-Days](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/1011.Capacity-To-Ship-Packages-Within-D-Days) (M)  
 [1060.Missing-Element-in-Sorted-Array](https://github.com/wisdompeak/LeetCode/blob/master/Binary_Search/1060.Missing-Element-in-Sorted-Array) (H)  
 [1102.Path-With-Maximum-Minimum-Value](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/1102.Path-With-Maximum-Minimum-Value) (H-)   
 [1631.Path-With-Minimum-Effort](https://github.com/wisdompeak/LeetCode/tree/master/Union_Find/1631.Path-With-Minimum-Effort) (H-)  
@@ -117,7 +117,7 @@
 [1802.Maximum-Value-at-a-Given-Index-in-a-Bounded-Array](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/1802.Maximum-Value-at-a-Given-Index-in-a-Bounded-Array) (M+)  
 [1870.Minimum-Speed-to-Arrive-on-Time](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/1870.Minimum-Speed-to-Arrive-on-Time) (M)  
 [1898.Maximum-Number-of-Removable-Characters](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/1898.Maximum-Number-of-Removable-Characters) (H-)  
-[1891.Cutting-Ribbons](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/1891.Cutting-Ribbons) (E)  
+- [ ] [1891.Cutting-Ribbons](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/1891.Cutting-Ribbons) (E)  
 [2064.Minimized-Maximum-of-Products-Distributed-to-Any-Store](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/2064.Minimized-Maximum-of-Products-Distributed-to-Any-Store) (M)    
 [2071.Maximum-Number-of-Tasks-You-Can-Assign](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/2071.Maximum-Number-of-Tasks-You-Can-Assign) (H)  
 [2106.Maximum-Fruits-Harvested-After-at-Most-K-Steps](https://github.com/wisdompeak/LeetCode/blob/master/Two_Pointers/2106.Maximum-Fruits-Harvested-After-at-Most-K-Steps) (H)    
