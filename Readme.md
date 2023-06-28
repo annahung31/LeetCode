@@ -176,7 +176,7 @@
 [2131.Longest-Palindrome-by-Concatenating-Two-Letter-Words](https://github.com/wisdompeak/LeetCode/tree/master/Hash/2131.Longest-Palindrome-by-Concatenating-Two-Letter-Words) (M)     
 [2198.Number-of-Single-Divisor-Triplets](https://github.com/wisdompeak/LeetCode/tree/master/Hash/2198.Number-of-Single-Divisor-Triplets) (H-)      
 * ``Hash+Prefix``    
-- [ ] [525.Contiguous-Array](https://github.com/wisdompeak/LeetCode/tree/master/Hash/525.Contiguous-Array) (M)    
+- [x] [525.Contiguous-Array](https://github.com/wisdompeak/LeetCode/tree/master/Hash/525.Contiguous-Array) (M)    
 [930.Binary-Subarrays-With-Sum](https://github.com/wisdompeak/LeetCode/tree/master/Hash/930.Binary-Subarrays-With-Sum) (M)   
 [1983.Widest-Pair-of-Indices-With-Equal-Range-Sum](https://github.com/wisdompeak/LeetCode/tree/master/Hash/1983.Widest-Pair-of-Indices-With-Equal-Range-Sum) (M)      
 [1442.Count-Triplets-That-Can-Form-Two-Arrays-of-Equal-XOR](https://github.com/wisdompeak/LeetCode/tree/master/Bit_Manipulation/1442.Count-Triplets-That-Can-Form-Two-Arrays-of-Equal-XOR) (H-)  
