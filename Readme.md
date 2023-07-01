@@ -200,7 +200,7 @@
 [480.Sliding-Window-Median](https://github.com/wisdompeak/LeetCode/blob/master/Heap/480.Sliding-Window-Median) (H)    
 [699.Falling-Squares](https://github.com/wisdompeak/LeetCode/tree/master/Segment_Tree/699.Falling-Squares) (H)   
 [729.My-Calendar-I](https://github.com/wisdompeak/LeetCode/tree/master/Heap/729.My-Calendar-I) (M)    
-- [ ] [855.Exam-Room](https://github.com/wisdompeak/LeetCode/tree/master/Heap/855.Exam-Room) (M+)    
+- [x] [855.Exam-Room](https://github.com/wisdompeak/LeetCode/tree/master/Heap/855.Exam-Room) (M+)    
 [975.Odd-Even-Jump](https://github.com/wisdompeak/LeetCode/tree/master/Heap/975.Odd-Even-Jump) (H-)    
 [632.Smallest-Range-Covering-Elements-from-K-Lists](https://github.com/wisdompeak/LeetCode/tree/master/Heap/632.Smallest-Range-Covering-Elements-from-K-Lists) (H-)  
 [1675.Minimize-Deviation-in-Array](https://github.com/wisdompeak/LeetCode/tree/master/Heap/1675.Minimize-Deviation-in-Array) (H)  
