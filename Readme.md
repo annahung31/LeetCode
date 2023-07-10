@@ -204,7 +204,7 @@
 [975.Odd-Even-Jump](https://github.com/wisdompeak/LeetCode/tree/master/Heap/975.Odd-Even-Jump) (H-)    
 [632.Smallest-Range-Covering-Elements-from-K-Lists](https://github.com/wisdompeak/LeetCode/tree/master/Heap/632.Smallest-Range-Covering-Elements-from-K-Lists) (H-)  
 [1675.Minimize-Deviation-in-Array](https://github.com/wisdompeak/LeetCode/tree/master/Heap/1675.Minimize-Deviation-in-Array) (H)  
-- [ ] [1296.Divide-Array-in-Sets-of-K-Consecutive-Numbers](https://github.com/wisdompeak/LeetCode/tree/master/Heap/1296.Divide-Array-in-Sets-of-K-Consecutive-Numbers) (M)  
+- [x] [1296.Divide-Array-in-Sets-of-K-Consecutive-Numbers](https://github.com/wisdompeak/LeetCode/tree/master/Heap/1296.Divide-Array-in-Sets-of-K-Consecutive-Numbers) (M)  
 1348.Tweet-Counts-Per-Frequency (H-)    
 [1488.Avoid-Flood-in-The-City](https://github.com/wisdompeak/LeetCode/tree/master/Heap/1488.Avoid-Flood-in-The-City) (H-)  
 [1606.Find-Servers-That-Handled-Most-Number-of-Requests](https://github.com/wisdompeak/LeetCode/tree/master/Heap/1606.Find-Servers-That-Handled-Most-Number-of-Requests) (M)  
